@@ -51,7 +51,7 @@
 ## 주요기능 - 작성중
 [발표자료](작성중)
 ## 📌 ERD CLOUD - 
-![image](https://github.com/fat-fella/JJAPKOREA/assets/130439230/977cc9b0-d1ee-47d0-9b3d-5686ff532fc6)
+![image](https://github.com/fat-fella/JJAPKOREA/assets/130439230/08039ec7-8652-487c-9e8e-3ec00071f2ed)
 
 
 
