@@ -49,7 +49,7 @@
 - 이메일 / SMS
 #
 ## 주요기능 - 작성중
-[발표자료](작성중)
+[발표자료](https://docs.google.com/presentation/d/1Zg3F8tMe5jEJON2B4ZOEe4-2NAm7ZpWE/edit?usp=drive_web&ouid=115873707985350394199&rtpof=true)
 ## 📌 ERD CLOUD - 
 ![image](https://github.com/fat-fella/JJAPKOREA/assets/130439230/08039ec7-8652-487c-9e8e-3ec00071f2ed)
 
